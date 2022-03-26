@@ -1,6 +1,6 @@
 <?php
 
-    // AUTHOR: EVAN STELLA
+    // AUTHOR: trhacknon
 
     // CHANGE THE FOLLOWING PARAMS AS NEEDED:
     //---------------------------------------------------------------
