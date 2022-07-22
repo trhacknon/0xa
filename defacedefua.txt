@@ -1,0 +1,58 @@
+/home/nagpurit/
+/home/nagpurit/beta.appxbuild.com/index.php
+/home/nagpurit/premium.nagpurit.com/index.php
+/home/nagpurit/bhagyashreeastro.com/index.php
+/home/nagpurit/.cpaddons/index.php
+/home/nagpurit/cache/index.php
+/home/nagpurit/appxbuild.com/index.php
+/home/nagpurit/etc/index.php
+/home/nagpurit/.clwpos/index.php
+/home/nagpurit/.softaculous/index.php
+/home/nagpurit/appxbuild.tar.gz/index.php
+/home/nagpurit/perl5/index.php
+/home/nagpurit/appxbuild/index.php
+/home/nagpurit/demo.nagpurit.com/index.php
+/home/nagpurit/parag.nagpurit.com/index.php
+/home/nagpurit/bhushanlambat.nagpurit.com/index.php
+/home/nagpurit/.spamassassin/index.php
+/home/nagpurit/.subaccounts/index.php
+/home/nagpurit/mail/index.php
+/home/nagpurit/logistic.nagpurit.com/index.php
+/home/nagpurit/vinay.nagpurit.com/index.php
+/home/nagpurit/logs/index.php
+/home/nagpurit/beta.bhagyashreeastro.com/index.php
+/home/nagpurit/herbalife.nagpurit.com/index.php
+/home/nagpurit/clientbackup/index.php
+/home/nagpurit/bin/index.php
+/home/nagpurit/pooja.nagpurit.com/index.php
+<br />
+<b>Warning</b>:  copy(/home/nagpurit/pooja.nagpurit.com/index.php): failed to open stream: Permission denied in <b>/home/nagpurit/babhale.com/0xa.php</b> on line <b>28</b><br />
+failed to copy pooja.nagpurit.com...
+/home/nagpurit/public_html/index.php
+/home/nagpurit/.trash/index.php
+/home/nagpurit/wordpress-backups/index.php
+/home/nagpurit/.cpanel/index.php
+/home/nagpurit/tmp/index.php
+/home/nagpurit/cpanel3-skel/index.php
+/home/nagpurit/sonam1.appxbuild.com/index.php
+/home/nagpurit/sonam.appxbuild.com/index.php
+/home/nagpurit/../index.php
+<br />
+<b>Warning</b>:  copy(/home/nagpurit/../index.php): failed to open stream: Permission denied in <b>/home/nagpurit/babhale.com/0xa.php</b> on line <b>28</b><br />
+failed to copy .....
+/home/nagpurit/./index.php
+/home/nagpurit/beta.babhale.com/index.php
+/home/nagpurit/nagpuradvisor.com/index.php
+/home/nagpurit/babhale.com/index.php
+<br />
+<b>Warning</b>:  copy(/home/nagpurit/babhale.com/index.php): failed to open stream: Permission denied in <b>/home/nagpurit/babhale.com/0xa.php</b> on line <b>28</b><br />
+failed to copy babhale.com...
+/home/nagpurit/.cphorde/index.php
+/home/nagpurit/php/index.php
+/home/nagpurit/.cagefs/index.php
+/home/nagpurit/.composer/index.php
+/home/nagpurit/public_ftp/index.php
+/home/nagpurit/.razor/index.php
+/home/nagpurit/ssl/index.php
+/home/nagpurit/.cl.selector/index.php
+/home/nagpurit/.pki/index.php
